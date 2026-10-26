@@ -1,0 +1,13 @@
+{
+  "source_commit": "3ef1bdc2f286566b5b80918e0a30c251e0ff1108",
+  "source_ref": "work",
+  "published_at": "2026-10-26",
+  "runtime_sha256": {
+    "index.html": "6e6ef5593a9e7734a3b1f5fd9d152fda83bc460639996c01551a6dc17766c073",
+    "styles.css": "aefc2eb9d4ec4e22dfd7a2c001f246a2b8fecf22ecfc6b437730af4b09f4d05d",
+    "app.js": "7be1309087fa3c0e48f46091a8019c9e0abd0392b14fbd89751a2e502f9c793b",
+    ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "assets/CREDITS.md": "9503f27ca52967d992cda84844a419697d9cd2cc5e96f5d170e4443a3ef7491d",
+    "assets/flight-atlas.webp": "396192f3bdfae52bb3c71f7c6ed50a0fb218842d092e726d0374c77e7b71f273"
+  }
+}
