@@ -1,9 +1,9 @@
 {
-  "source_commit": "0982d3fbcad4b1affaded1111c4e7aa6190ed15f",
+  "source_commit": "887acc1c36e50cc1a0296f21ce4340077b2d2d8c",
   "source_ref": "work",
-  "published_at": "2026-10-27",
+  "published_at": "2026-10-28",
   "runtime_sha256": {
-    "index.html": "01bde234af435433984abc2d5d0898d6bf6436811591449cc1f2b67bf0d29453",
+    "index.html": "72caac0ac2207f18f2cef6a888e83e61c6e6de39da094ce0bad5d5724a25088e",
     "styles.css": "39357bf5149b53c75ee1718cefb5f988a25ac342a82b080bf578e416a254af51",
     "app.js": "7be1309087fa3c0e48f46091a8019c9e0abd0392b14fbd89751a2e502f9c793b",
     ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
