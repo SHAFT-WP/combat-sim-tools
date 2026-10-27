@@ -1,10 +1,10 @@
 {
-  "source_commit": "a86711cd51d80e86f540863eeed643f3ce7e9f36",
+  "source_commit": "0982d3fbcad4b1affaded1111c4e7aa6190ed15f",
   "source_ref": "work",
   "published_at": "2026-10-27",
   "runtime_sha256": {
-    "index.html": "bc4f22c0f161c2c1c2691bbbb91f99701607d68c84abe84df34629e3e76ddc96",
-    "styles.css": "ac601e4f36d69cbea6edb580584425a1775909cb09ded7c87f3a1b82e4f129a3",
+    "index.html": "01bde234af435433984abc2d5d0898d6bf6436811591449cc1f2b67bf0d29453",
+    "styles.css": "39357bf5149b53c75ee1718cefb5f988a25ac342a82b080bf578e416a254af51",
     "app.js": "7be1309087fa3c0e48f46091a8019c9e0abd0392b14fbd89751a2e502f9c793b",
     ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
     "assets/CREDITS.md": "6e677aae18b07193a7f304d878c9f680f6c441ee94f4fc2d4a05a7244fe9de42",
